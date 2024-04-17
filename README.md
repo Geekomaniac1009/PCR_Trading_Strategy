@@ -1,4 +1,4 @@
-#PCR Trading Strategy
+# PCR Trading Strategy
 This project implements a Pivot Point Cumulative Ratio (PCR) trading strategy using options data. The strategy aims to identify potential buy and sell signals based on the relationship between the PCR value and the price movement.
 
 Overview
